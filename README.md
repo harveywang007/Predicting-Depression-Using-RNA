@@ -6,4 +6,4 @@ In our project, we predicted depression based on RNA expression. The algorithms 
 
 The data set was a proprietary set provided by one of the group members. While it does not include identifying data, I will not share it just to be safe. I have also cleared out the cell outputs that showed the data.
 
-The data had a 98 columns corresponding to a single gene, a column corresponding to the samples' indices, and a column with BDI scores. The 98 columns were the inputs and the BDI scores were the outputs. There were around only 120 samples, so the predictions are not accurate. The anomaly detection algorithm was the most successful, but only worked because of a shotgun approach.
+The data had 98 columns corresponding to each gene, a column corresponding to the samples' indices, and a column with BDI scores. The 98 columns were the inputs and the BDI scores were the outputs. There were around only 120 samples, so the predictions are not accurate. The anomaly detection algorithm was the most successful, but only worked because of a shotgun approach.
