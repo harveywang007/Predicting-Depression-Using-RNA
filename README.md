@@ -2,7 +2,7 @@
 
 For Stanford's CS 129 course, Applied Machine Learning, I worked on a final project with two other classmates. These are my coding contributions.
 
-In our project, we predicted depression based on RNA expression. The algorithms used included a neural network, logistic regression, SVM, and an anomaly detection algorithm; PCA was also tested, but it did not improve the performance. I wrote the anomaly detection and SVM algorithms, and I will share those here.
+In our project, we predicted depression based on RNA expression. The algorithms used included a neural network, logistic regression, SVM, and an anomaly detection algorithm; PCA was also tested, but it did not improve the performance. I wrote the anomaly detection algorithm, and applied that and the SVM on the data; I will share those here.
 
 The data set was a proprietary set provided by one of the group members. While it does not include identifying data, I will not share it just to be safe. I have also cleared out the cell outputs that showed the data.
 
