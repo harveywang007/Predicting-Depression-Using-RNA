@@ -1,6 +1,6 @@
 # Stanford-CS-129-Project
 
-For Stanford's CS 129 course, Applied Machine Learning, worked on a final project with two other classmates. These are my coding contributions.
+For Stanford's CS 129 course, Applied Machine Learning, I worked on a final project with two other classmates. These are my coding contributions.
 
 In our project, we predicted depression based on RNA expression. The algorithms used included a neural network, logistic regression, SVM, and an anomaly detection algorithm; PCA was also tested, but it did not improve the performance. I wrote the anomaly detection and SVM algorithms, and I will share those here.
 
